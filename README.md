@@ -15,7 +15,7 @@
 
 Пример генерации номеров карт:
 
-![image]()
+![image](https://raw.githubusercontent.com/Olya-Makhova-QA/tg_test_credit_card/refs/heads/main/scrin_card.png)
 
 
 
